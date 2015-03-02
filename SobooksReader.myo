@@ -157,7 +157,7 @@ function onPeriodic()
     end
 end
 scriptId = 'de.phillippohlandt.SobooksReader'
-scriptDetailsUrl = ''
+scriptDetailsUrl = 'https://market.myo.com/app/54f13b15e4b076579f2a08dd/'
 scriptTitle = 'Sobooks.de Reader Connector'
 
 function onForegroundWindowChange(app, title)
